@@ -2,9 +2,9 @@
 
 ### 贝叶斯公式
 
-$$p(xy)=p(x|y)p(y)=p(y|x)p(x)$$
+$$ p(xy)=p(x|y)p(y)=p(y|x)p(x )$$
 
-$$p(x|y)=\frac{p(y|x)p(x)}{p(y)}$$
+$$ p(x|y)=\frac{p(y|x)p(x)}{p(y)} $$
 
 ### 多维list转一维
 
